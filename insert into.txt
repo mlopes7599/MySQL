@@ -1,0 +1,29 @@
+INSERIR COLUNAS BANCO
+
+insert into nome_coluna(
+	nome_atributo,
+	nome_atributo,
+	nome_atributo,
+	nome_atributo,
+	nome_atributo,
+values(
+	valor_atributo,
+	valor_atributo,
+	valor_atributo,
+	valor_atributo,
+	valor_atributo);
+
+
+
+INSERT INTO usuarios(
+	id, 
+	nome, 
+	email, 
+	data_nascimento, 
+	endereco)
+VALUES(
+	1,
+    	"Matheus Lopes",
+    	"matheuslopps@gmail.com",
+    	"1999-07-05",
+   	 "Rua José Franciso Morais");
