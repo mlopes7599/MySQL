@@ -1,0 +1,17 @@
+CRIAR TABELA BANCO
+
+create table  {{nome}}
+	({{coluna}} {{tipo}} {{opcoões}}  
+	{{'COMENTARIO'}};
+
+
+
+-- EXEMPLO: 
+/*CREATE TABLE usuarios(
+	id INT,
+    	nome VARCHAR(100) NOT NULL COMMENT 'Nome do Usuario',
+    	email VARCHAR(100) NOT NULL UNIQUE,
+	endereco VARCHAR(100) NOT NULL,
+    	data_nascimento DATE NOT NULL);
+    */
+    
