@@ -1,0 +1,9 @@
+DETELAR 
+
+delete from coluna
+where atributo = valor_atributo
+
+
+
+DELETE FROM usuarios
+WHERE nome = "Matheus Lopes";
