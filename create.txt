@@ -1,0 +1,18 @@
+CRIAR TABELA BANCO
+
+create table tabela_nome(
+	nome_atributo tipo,
+	nome_atributo tipo,
+	nome_atributo tipo,
+	nome_atributo tipo,
+	nome_atributo tipo);
+
+
+
+CREATE TABLE usuarios(
+	id INT,
+    	nome VARCHAR(100) NOT NULL COMMENT 'Nome do Usuario',
+    	email VARCHAR(100) NOT NULL UNIQUE,
+	endereco VARCHAR(100) NOT NULL,
+    	data_nascimento DATE NOT NULL);
+    
