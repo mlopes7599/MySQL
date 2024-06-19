@@ -1,0 +1,10 @@
+UPDATE BANCO
+
+update coluna
+set atributo = valor_novo
+where condicao -- onde quer atualizar, no caso o id 1
+
+
+UPDATE usuarios
+SET nome = "Biru Leibe"
+WHERE id = 1;
