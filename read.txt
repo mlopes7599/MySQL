@@ -1,0 +1,9 @@
+READ BANCO
+
+select * from coluna
+where condicao - o que deseja ler
+
+
+
+SELECT * FROM usuarios
+WHERE nome = "Matheus Lopes"
